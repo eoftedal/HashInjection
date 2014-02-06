@@ -1,6 +1,6 @@
 NoSQL injection - Hash injection
 ================================
-As described in (http://cirw.in/blog/hash-injection)[http://cirw.in/blog/hash-injection] rails combined with mongo can lead to NoSQL injection.
+As described in http://cirw.in/blog/hash-injection rails combined with mongo can lead to NoSQL injection.
 
 Prerequisites
 -------------
